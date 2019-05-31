@@ -1,0 +1,7 @@
+\\developmentfs\f\profiles\alanclark\documents\visual studio 2010\Projects\ASIUploads\ASIUploads\bin\Debug\WinSCP.exe
+\\developmentfs\f\profiles\alanclark\documents\visual studio 2010\Projects\ASIUploads\ASIUploads\bin\Debug\ASIUploads.exe
+\\developmentfs\f\profiles\alanclark\documents\visual studio 2010\Projects\ASIUploads\ASIUploads\bin\Debug\ASIUploads.pdb
+\\developmentfs\f\profiles\alanclark\documents\visual studio 2010\Projects\ASIUploads\ASIUploads\bin\Debug\WinSCPnet.dll
+\\developmentfs\f\profiles\alanclark\documents\visual studio 2010\Projects\ASIUploads\ASIUploads\obj\x86\Debug\ASIUploads.exe
+\\developmentfs\f\profiles\alanclark\documents\visual studio 2010\Projects\ASIUploads\ASIUploads\obj\x86\Debug\ASIUploads.pdb
+\\developmentfs\f\profiles\alanclark\documents\visual studio 2010\Projects\ASIUploads\ASIUploads\obj\x86\Debug\ASIUploads.csprojResolveAssemblyReference.cache
